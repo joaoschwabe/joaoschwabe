@@ -4,10 +4,9 @@ Hi 👋 My name is João Gabriel
 Front end Developer from Brazil!
 -----------------------------
 
-I'm a 17 years old web and mobile developer 
+I'm a 19 years old web and mobile developer 
 
-- Focusing on ReactJS, React Native and NodeJS
-- Improving my skills on TypeScript
+- Focusing on NEextJs, TypeScript and SSR
 
 ### Skills
 

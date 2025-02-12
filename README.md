@@ -6,7 +6,7 @@ Front end Developer from Brazil!
 
 I'm a 19 years old web and mobile developer 
 
-- Focusing on NEextJs, TypeScript and SSR
+- Focusing on NextJs, TypeScript and SSR
 
 ### Skills
 

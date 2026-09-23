@@ -1,10 +1,10 @@
 Hi 👋 My name is João Gabriel
 ==========================
 
-Front end Developer from Brazil!
+Full-stack Developer from Brazil!
 -----------------------------
 
-I'm a 19 years old web and mobile developer 
+I'm a web and mobile developer 
 
 - Focusing on NextJs, TypeScript and SSR
 
